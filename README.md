@@ -5,7 +5,7 @@ A simple and secure random password generator built using Python. This project a
 
 Live Demo 🌐
 
-Try the app here:
+Try the app here: https://random-passwords.streamlit.app/
 
 Random Password Generator Streamlit App
 
